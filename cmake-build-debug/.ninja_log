@@ -1,0 +1,20 @@
+# ninja log v5
+4	116	6728465134154367	CMakeFiles/Part_A.dir/main.cpp.obj	c67b42a4f49e341b
+33	2387	6728464939378795	CMakeFiles/Part_A.dir/Ambassador.cpp.obj	88a541f96737712f
+20	883	6728464407189046	CMakeFiles/Part_A.dir/Game.cpp.obj	4f8e34640793b8cc
+39	1146	6728464926640811	CMakeFiles/Part_A.dir/Demo.cpp.obj	9d4b7dc761d8de1c
+25	2443	6728464939980295	CMakeFiles/Part_A.dir/Duke.cpp.obj	bb76593d603c3bc4
+50	2514	6728464940605131	CMakeFiles/Part_A.dir/Contessa.cpp.obj	c8411f3f38a4bacc
+29	2460	6728464940136490	CMakeFiles/Part_A.dir/Captain.cpp.obj	1b53ff3deb79a447
+20	2526	6728464940761344	CMakeFiles/Part_A.dir/Assassin.cpp.obj	bc372868bf0be4
+4	2431	6728464939824069	CMakeFiles/Part_A.dir/Player.cpp.obj	8ab420459ce95ce5
+117	305	6728465135948087	Part_A.exe	2b7937288ea5e2c1
+46	1293	6728564259795050	CMakeFiles/Part_A.dir/Demo.cpp.obj	9d4b7dc761d8de1c
+51	1297	6728564259951246	CMakeFiles/Part_A.dir/Game.cpp.obj	4f8e34640793b8cc
+42	1633	6728564263448242	CMakeFiles/Part_A.dir/Test.cpp.obj	a3633b838c857a2d
+55	3327	6728564280490830	CMakeFiles/Part_A.dir/Contessa.cpp.obj	c8411f3f38a4bacc
+25	3440	6728564281584330	CMakeFiles/Part_A.dir/Duke.cpp.obj	bb76593d603c3bc4
+29	3469	6728564281896752	CMakeFiles/Part_A.dir/Captain.cpp.obj	1b53ff3deb79a447
+38	3481	6728564282052964	CMakeFiles/Part_A.dir/Ambassador.cpp.obj	88a541f96737712f
+34	3544	6728564282709697	CMakeFiles/Part_A.dir/Assassin.cpp.obj	bc372868bf0be4
+4	3549	6728564282709697	CMakeFiles/Part_A.dir/Player.cpp.obj	8ab420459ce95ce5
